@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 82 24">
+  <g clip-path="url(#garnet_svg__a)">
+    <path fill="#101112" d="M35.85 12.125h3.49v2.736a2.523 2.523 0 0 1-2.512 2.527H35.71c-1.382 0-2.513-1.145-2.513-2.527V10.13a2.511 2.511 0 0 1 2.513-2.513h1.117a2.502 2.502 0 0 1 2.512 2.513v.768h-1.396v-.768c0-.628-.488-1.117-1.116-1.117H35.71c-.628 0-1.117.503-1.117 1.117v4.732a1.12 1.12 0 0 0 1.117 1.117h1.117a1.12 1.12 0 0 0 1.116-1.117v-1.34h-2.093v-1.396Zm7.114 5.263H41.57v-3.21l2.372-6.562h1.396l2.373 6.561v3.21h-1.395v-2.26h-3.35v2.26Zm.252-3.658h2.847l-1.41-3.908h-.027l-1.41 3.909Zm12.864 3.658h-1.535l-1.773-3.909h-1.438v3.909h-1.396V7.616h3.63a2.502 2.502 0 0 1 2.512 2.513v.838a2.492 2.492 0 0 1-1.828 2.415l1.828 4.006Zm-4.746-5.305h2.234c.628 0 1.117-.488 1.117-1.117v-.837c0-.628-.49-1.117-1.117-1.117h-2.234v3.071Zm11.72-4.467h1.397v9.772h-2.025L59.704 9.96v7.427H58.31V7.616h2.024l2.722 7.427V7.616Zm9.767 0v1.396h-4.746v2.555h4.187v1.396h-4.188v3.029h4.747v1.396h-6.142V7.616h6.142Zm2.228 0h6.142v1.396h-2.373v8.376h-1.396V9.012h-2.373V7.616Z"/>
+    <path fill="#A91F2F" fill-opacity=".5" d="M6 3v3h3V3H6ZM3 3v3h3V3H3Z"/>
+    <path fill="#A91F2F" d="M6 6v3h3V6H6ZM9 6v3h3V6H9ZM12 6v3h3V6h-3ZM15 6v3h3V6h-3ZM6 9v3h3V9H6ZM15 9v3h3V9h-3ZM6 12v3h3v-3H6ZM15 12v3h3v-3h-3ZM6 15v3h3v-3H6ZM15 15v3h3v-3h-3ZM12 15v3h3v-3h-3ZM9 15v3h3v-3H9Z"/>
+    <path fill="#A91F2F" fill-opacity=".5" d="M3 6v3h3V6H3ZM12 3v3h3V3h-3ZM15 3v3h3V3h-3ZM18 3v3h3V3h-3ZM9 3v3h3V3H9Z"/>
+    <path fill="#A91F2F" fill-opacity=".25" d="M6 24v-3h3v3H6ZM6 3V0h3v3H6ZM12 24v-3h3v3h-3ZM12 3V0h3v3h-3Z"/>
+    <path fill="#A91F2F" fill-opacity=".5" d="M12 21v-3h3v3h-3ZM15 21v-3h3v3h-3Z"/>
+    <path fill="#A91F2F" fill-opacity=".25" d="M9 24v-3h3v3H9ZM9 3V0h3v3H9ZM15 24v-3h3v3h-3ZM15 3V0h3v3h-3Z"/>
+    <path fill="#A91F2F" fill-opacity=".5" d="M9 21v-3h3v3H9ZM6 21v-3h3v3H6Z"/>
+    <path fill="#A91F2F" fill-opacity=".25" d="M0 9h3v3H0V9ZM0 6h3v3H0V6Z"/>
+    <path fill="#A91F2F" fill-opacity=".5" d="M3 12h3v3H3v-3ZM3 15h3v3H3v-3ZM3 18h3v3H3v-3Z"/>
+    <path fill="#A91F2F" fill-opacity=".25" d="M0 12h3v3H0v-3ZM0 15h3v3H0v-3Z"/>
+    <path fill="#A91F2F" fill-opacity=".5" d="M3 9h3v3H3V9Z"/>
+    <path fill="#A91F2F" fill-opacity=".25" d="M24 6h-3v3h3V6ZM24 12h-3v3h3v-3Z"/>
+    <path fill="#A91F2F" fill-opacity=".5" d="M21 6h-3v3h3V6ZM21 12h-3v3h3v-3ZM21 15h-3v3h3v-3ZM21 18h-3v3h3v-3Z"/>
+    <path fill="#A91F2F" fill-opacity=".25" d="M24 9h-3v3h3V9ZM24 15h-3v3h3v-3Z"/>
+    <path fill="#A91F2F" fill-opacity=".5" d="M21 9h-3v3h3V9Z"/>
+  </g>
+  <defs>
+    <clipPath id="garnet_svg__a">
+      <path fill="#fff" d="M0 0h82v24H0z"/>
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#blast-color_svg__a)">
+    <circle cx="15" cy="15" r="90" fill="#0E0E0B"/>
+    <path fill="#FCFC54" fill-rule="evenodd" d="m24.656 13.163-3.417 1.702-.024.047 2.321 1.702L22.3 20.44l-3.463 1.714 2.075-6.378H13.52l.711-2.216h7.394l.98-3.032H4.166l3.626-2.694h15.685l2.355 1.715-1.177 3.615Zm-13.143-.397-2.134 6.647h10.344l-.887 2.74H5.59l3.557-11.16 2.367 1.773Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <clipPath id="blast-color_svg__a">
+      <rect width="30" height="30" fill="#fff" rx="15"/>
+    </clipPath>
+  </defs>
+</svg>

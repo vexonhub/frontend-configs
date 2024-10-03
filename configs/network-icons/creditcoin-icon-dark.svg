@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#creditcoin-icon-dark_svg__a)">
+    <path fill="#fff" fill-rule="evenodd" d="M15 27.033c4.423 0 8.297-2.418 10.384-5.989l2.61 1.484C25.384 26.978 20.55 30 15 30 6.703 30 0 23.297 0 15S6.703 0 15 0c5.55 0 10.412 3.022 12.994 7.5l-2.61 1.51A11.973 11.973 0 0 0 15 3.023c-6.62 0-12.006 5.384-12.006 12.006 0 6.62 5.385 12.005 12.006 12.005Zm2.622-13.516h12.39v2.967h-12.39a2.947 2.947 0 0 1-2.582 1.511 3.002 3.002 0 0 1-2.995-2.994 3.002 3.002 0 0 1 2.995-2.995 2.98 2.98 0 0 1 2.582 1.511Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <clipPath id="creditcoin-icon-dark_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>

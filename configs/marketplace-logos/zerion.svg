@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 512 512">
+  <path fill="url(#zerion_svg__a)" d="M0 0h512v512H0z"/>
+  <path fill="#fff" d="M111.226 128c-8.775 0-12.155 10.85-4.793 15.382L290.62 254.441c4.592 2.826 10.715 1.709 13.876-2.532l80.983-106.315c5.505-7.386-.058-17.594-9.588-17.594H111.226ZM400.716 384c8.773 0 12.242-10.908 4.881-15.439L221.356 257.516c-4.591-2.826-10.566-1.568-13.727 2.672L126.49 366.482c-5.505 7.384.232 17.518 9.761 17.518h264.465Z"/>
+  <defs>
+    <linearGradient id="zerion_svg__a" x1="0" x2="604.983" y1="0" y2="352.348" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2962EF"/>
+      <stop offset="1" stop-color="#255CE5"/>
+    </linearGradient>
+  </defs>
+</svg>

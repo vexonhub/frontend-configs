@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1001 1001">
+  <path fill="#FAF1E7" d="M.934.896h1000v1000H.934z"/>
+  <g clip-path="url(#angle_svg__a)">
+    <path fill="#FAF1E7" stroke="#1F2333" stroke-linejoin="round" stroke-width="5" d="m332.389 516.599 167.869-169.375 167.87 169.375-83.936 84.689-83.935-84.688-83.934 84.687-83.934-84.688Z"/>
+    <path fill="#1F2333" stroke="#1F2333" stroke-linejoin="round" stroke-width="5" d="m500.258 516.597-83.935 84.699-16.786-41.94L500.258 457.73v58.867Z"/>
+    <path fill="#FAF1E7" stroke="#1F2333" stroke-linejoin="round" stroke-width="5" d="m332.377 516.58 83.944 84.69-16.786-41.914L298.813 457.73l33.564 58.85ZM500.256 516.597l83.936 84.699 16.786-41.94L500.256 457.73v58.867Z"/>
+    <path fill="#1F2333" stroke="#1F2333" stroke-linejoin="round" stroke-width="5" d="m668.137 516.58-83.944 84.69 16.786-41.914L701.701 457.73l-33.564 58.85Z"/>
+    <path fill="url(#angle_svg__b)" stroke="#1F2333" stroke-linejoin="round" stroke-width="5" d="m298.815 457.722 201.443-203.251 201.444 203.251-100.723 101.626-100.722-101.625-100.72 101.624-100.722-101.625Z"/>
+    <path fill="#1F2333" d="M381.112 753h10.563v-42.265h31.702V753h10.562v-52.834h-52.827V753ZM486.772 753h52.827v-31.702h-10.562v21.132h-31.702v-31.695h42.264v-10.569h-52.827V753ZM602.997 700.166h-10.562V753h52.834v-10.57h-42.272v-42.264ZM750.929 700.166h-52.834V753h52.834v-10.57h-31.68l31.68-31.68v-10.584Zm-42.113 37.778v-27.209h27.18l-27.18 27.209ZM295.366 700.1l-.007-.007-.979.987-44.446 44.446 7.473 7.473 37.973-37.973 38.039 37.901 7.459-7.488-45.447-45.281-.065-.058Z"/>
+  </g>
+  <defs>
+    <linearGradient id="angle_svg__b" x1="669.725" x2="418.039" y1="308.03" y2="573.207" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4837D"/>
+      <stop offset="1" stop-color="#FDCEAA"/>
+    </linearGradient>
+    <clipPath id="angle_svg__a">
+      <path fill="#fff" d="M249.934 249.896h502v502h-502z"/>
+    </clipPath>
+  </defs>
+</svg>

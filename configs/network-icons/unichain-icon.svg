@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#unichain-icon_svg__a)">
+    <path fill="#F50DB4" d="M30.73 14.715c-8.131 0-14.715-6.591-14.715-14.715h-.57v14.715H.728v.57c8.131 0 14.715 6.591 14.715 14.715h.57V15.285H30.73v-.57Z"/>
+  </g>
+  <defs>
+    <clipPath id="unichain-icon_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>

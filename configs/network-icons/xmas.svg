@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#xmas_svg__a)">
+    <path fill="url(#xmas_svg__b)" fill-rule="evenodd" d="M5.418 1a1 1 0 0 1 1-1h4.443a1 1 0 0 1 1 1v4.197a1 1 0 0 1-1 1H7.443a1 1 0 0 0-1 1v21.546a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V7.196a1 1 0 0 1 1-1h3.418a1 1 0 0 0 1-1V1Zm12.93 0a1 1 0 0 1 1-1h4.443a1 1 0 0 1 1 1v3.949a1 1 0 0 0 1 1h3.193a1 1 0 0 1 1 1v21.547a1 1 0 0 1-1 1h-4.443a1 1 0 0 1-1-1v-21.3a1 1 0 0 0-1-1h-3.193a1 1 0 0 1-1-1V1Z" clip-rule="evenodd"/>
+    <path fill="#6DC04D" d="M12.194 9.169 5.138 29.443h14.111L12.194 9.169Z"/>
+    <path fill="#303C42" fill-rule="evenodd" d="m12.193 8.03 7.578 21.776H4.615L12.193 8.03ZM5.66 29.08h13.067l-6.534-18.774L5.66 29.08Z" clip-rule="evenodd"/>
+    <path fill="#303C42" d="m18.617 29.48-.08.078a.321.321 0 0 1-.439 0l-9.62-9.3a.296.296 0 0 1 0-.423l.081-.079a.321.321 0 0 1 .438 0l9.62 9.3a.296.296 0 0 1 0 .423Z"/>
+    <path fill="#303C42" d="m8.698 19.926.08.078a.321.321 0 0 0 .439 0l5.029-4.861a.296.296 0 0 0 0-.424l-.082-.078a.321.321 0 0 0-.437 0l-5.03 4.861a.296.296 0 0 0 0 .424Z"/>
+    <path fill="#85D46B" d="m19.699 15.416-4.898 14.076h9.79l-4.892-14.076Z"/>
+    <path fill="#303C42" fill-rule="evenodd" d="m19.7 14.277 5.413 15.578H14.28l5.42-15.578Zm-4.376 14.852h8.745L19.7 16.554 15.325 29.13Z" clip-rule="evenodd"/>
+    <path fill="#303C42" d="m15.121 29.341.169.163c.1.097.263.097.363 0l6.618-6.397c.1-.097.1-.254 0-.35l-.17-.164a.263.263 0 0 0-.362 0L15.12 28.99c-.1.097-.1.254 0 .351Z"/>
+    <path fill="#FFCF01" stroke="#303C42" stroke-linejoin="round" stroke-width=".6" d="M19.964 12.813a.3.3 0 0 0-.544 0l-.62 1.337-1.48.329a.3.3 0 0 0-.129.522l1.071.903-.229 1.45a.3.3 0 0 0 .444.307l1.215-.684 1.215.684a.3.3 0 0 0 .444-.308l-.23-1.45 1.072-.902a.3.3 0 0 0-.128-.522l-1.482-.33-.619-1.336ZM12.426 7.607a.3.3 0 0 0-.545 0l-.619 1.338-1.481.329a.3.3 0 0 0-.129.522l1.072.903-.23 1.449a.3.3 0 0 0 .444.308l1.215-.684 1.216.684a.3.3 0 0 0 .443-.308l-.229-1.45 1.071-.902a.3.3 0 0 0-.128-.522l-1.481-.33-.62-1.337Z"/>
+    <path fill="#FFCF01" d="M12.64 18.02c.602 0 1.09-.472 1.09-1.054 0-.581-.488-1.053-1.09-1.053-.601 0-1.09.472-1.09 1.053 0 .582.489 1.054 1.09 1.054ZM11.101 23.968c.602 0 1.09-.471 1.09-1.053s-.488-1.053-1.09-1.053c-.601 0-1.09.471-1.09 1.053s.489 1.053 1.09 1.053ZM20.333 25.456c.602 0 1.09-.472 1.09-1.054 0-.582-.488-1.053-1.09-1.053-.602 0-1.09.471-1.09 1.053s.488 1.054 1.09 1.054Z"/>
+    <path fill="#2B79BA" d="M0 23.797s3.846 3.057 6.154 1.485c2.73-1.86 3.22-.064 6.154-1.485 3.077-1.49 4.076 2.034 6.923 2.358 3.004.342 5.384-1.746 7.692-.873C29.936 26.422 30 23.797 30 23.797v3.717a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-3.717Z" opacity=".3" style="mix-blend-mode:multiply"/>
+    <path fill="url(#xmas_svg__c)" d="M0 25.284s3.846 3.057 6.154 1.485c2.73-1.86 3.22-.064 6.154-1.485 3.077-1.49 4.076 2.035 6.923 2.359 3.004.341 5.384-1.747 7.692-.874C29.936 27.91 30 25.284 30 25.284v3.717a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-3.717Z"/>
+    <ellipse cx="3.846" cy="20.077" fill="url(#xmas_svg__d)" rx=".769" ry=".744"/>
+    <ellipse cx="6.923" cy="15.615" fill="url(#xmas_svg__e)" rx=".769" ry=".744"/>
+    <ellipse cx="19.231" cy="9.667" fill="url(#xmas_svg__f)" rx=".769" ry=".744"/>
+    <ellipse cx="3.461" cy="15.244" fill="url(#xmas_svg__g)" rx=".385" ry=".372"/>
+    <ellipse cx="1.923" cy="16.731" fill="url(#xmas_svg__h)" rx=".385" ry=".372"/>
+    <ellipse cx="9.615" cy="3.346" fill="url(#xmas_svg__i)" rx=".385" ry=".372"/>
+    <ellipse cx="21.923" cy="3.346" fill="url(#xmas_svg__j)" rx=".385" ry=".372"/>
+    <ellipse cx="25" cy="13.756" fill="url(#xmas_svg__k)" rx=".385" ry=".372"/>
+    <ellipse cx="28.076" cy="18.218" fill="url(#xmas_svg__l)" rx=".385" ry=".372"/>
+    <ellipse cx="26.538" cy="19.705" fill="url(#xmas_svg__m)" rx=".385" ry=".372"/>
+    <ellipse cx="28.076" cy="22.68" fill="url(#xmas_svg__n)" rx=".385" ry=".372"/>
+    <ellipse cx="26.923" cy="11.154" fill="url(#xmas_svg__o)" rx=".769" ry=".744"/>
+    <ellipse cx="20.769" cy="2.231" fill="url(#xmas_svg__p)" rx=".769" ry=".744"/>
+    <ellipse cx="2.308" cy="9.667" fill="url(#xmas_svg__q)" rx=".769" ry=".744"/>
+    <path fill="#000" fill-rule="evenodd" d="m7.846 0-.715 4.462L6.154 0h1.692ZM9.54 0l-.716 2.974L7.847 0h1.692Z" clip-rule="evenodd" opacity=".3"/>
+    <path fill="url(#xmas_svg__r)" fill-rule="evenodd" d="m7.692 0-.65 4.462L6.154 0h1.538Zm1.539 0-.65 2.974L7.692 0h1.539Z" clip-rule="evenodd"/>
+    <path fill="#000" fill-opacity=".08" fill-rule="evenodd" d="m27.692 5.95-.65 4.163-.888-4.164h3.076l-.65 2.082-.888-2.082Z" clip-rule="evenodd"/>
+    <path fill="url(#xmas_svg__s)" fill-rule="evenodd" d="m29.23 5.949-.65 1.487-.888-1.487-.65 2.974-.888-2.974h3.076Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <linearGradient id="xmas_svg__b" x1="14.992" x2="14.992" y1="0" y2="29.743" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#36B6FE"/>
+      <stop offset="1" stop-color="#3184D0"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__c" x1="15" x2="15" y1="25.242" y2="30.001" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#C2D1D8"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__d" x1="3.846" x2="3.846" y1="19.333" y2="20.82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__e" x1="6.923" x2="6.923" y1="14.872" y2="16.359" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__f" x1="21.538" x2="18.659" y1="-2.231" y2="17.874" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#D7F3FF"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__g" x1="3.461" x2="3.461" y1="14.872" y2="15.615" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__h" x1="1.923" x2="1.923" y1="16.359" y2="17.103" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__i" x1="9.615" x2="9.615" y1="2.974" y2="3.718" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__j" x1="21.923" x2="21.923" y1="2.974" y2="3.718" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__k" x1="25" x2="25" y1="13.385" y2="14.128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__l" x1="28.076" x2="28.076" y1="17.846" y2="18.59" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__m" x1="26.538" x2="26.538" y1="19.333" y2="20.077" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__n" x1="28.076" x2="28.076" y1="22.308" y2="23.051" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__o" x1="26.923" x2="26.923" y1="10.41" y2="11.897" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__p" x1="20.769" x2="20.769" y1="1.487" y2="2.974" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__q" x1="2.308" x2="2.308" y1="8.923" y2="10.41" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__r" x1="7.042" x2="7.042" y1="4.462" y2="-2.231" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#FBFEFF"/>
+    </linearGradient>
+    <linearGradient id="xmas_svg__s" x1="28.58" x2="28.58" y1="7.436" y2="5.205" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#FBFEFF"/>
+    </linearGradient>
+    <clipPath id="xmas_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>

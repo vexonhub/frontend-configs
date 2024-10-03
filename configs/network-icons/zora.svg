@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#zora_svg__a)">
+    <g clip-path="url(#zora_svg__b)">
+      <path fill="url(#zora_svg__c)" d="M14.919 29.837C6.679 29.837 0 23.158 0 14.92 0 6.679 6.68 0 14.92 0c8.24 0 14.918 6.68 14.918 14.919 0 8.24-6.679 14.918-14.918 14.918Z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="zora_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+    <clipPath id="zora_svg__b">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+    <radialGradient id="zora_svg__c" cx="0" cy="0" r="1" gradientTransform="rotate(180 10.846 4.011) scale(25.2008)" gradientUnits="userSpaceOnUse">
+      <stop offset=".007" stop-color="#F2CEFE"/>
+      <stop offset=".191" stop-color="#AFBAF1"/>
+      <stop offset=".498" stop-color="#4281D3"/>
+      <stop offset=".667" stop-color="#2E427D"/>
+      <stop offset=".823" stop-color="#230101"/>
+      <stop offset="1" stop-color="#8F6B40"/>
+    </radialGradient>
+  </defs>
+</svg>

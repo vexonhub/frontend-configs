@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 113 24">
+  <g clip-path="url(#xmas_blockscout_logo_svg__a)">
+    <g clip-path="url(#xmas_blockscout_logo_svg__b)">
+      <path fill="url(#xmas_blockscout_logo_svg__c)" fill-rule="evenodd" d="M3.521 3a1 1 0 0 1 1-1H6.71a1 1 0 0 1 1 1v2.167a1 1 0 0 1-1 1H5.188a1 1 0 0 0-1 1V21a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V7.166a1 1 0 0 1 1-1h1.521a1 1 0 0 0 1-1V3Zm8.405 0a1 1 0 0 1 1-1h2.188a1 1 0 0 1 1 1v2a1 1 0 0 0 1 1h1.376a1 1 0 0 1 1 1v13.833a1 1 0 0 1-1 1h-2.188a1 1 0 0 1-1-1V7.167a1 1 0 0 0-1-1h-1.376a1 1 0 0 1-1-1V3Z" clip-rule="evenodd"/>
+      <path fill="url(#xmas_blockscout_logo_svg__d)" d="M28 6.533h4.947c2.096 0 3.23 1.103 3.23 2.69a2.468 2.468 0 0 1-1.495 2.344v.051a2.81 2.81 0 0 1 1.464 1.05c.36.501.546 1.107.53 1.725 0 1.774-1.228 3.17-3.454 3.17H28V6.533Zm4.982 4.482c.79 0 1.357-.585 1.357-1.476 0-.892-.567-1.477-1.357-1.477h-3.139v2.953h3.139Zm.223 5.032c.945 0 1.632-.724 1.632-1.775s-.687-1.758-1.632-1.758h-3.362v3.533h3.362Z"/>
+      <path fill="url(#xmas_blockscout_logo_svg__e)" d="M38.977 7.845h-1.035V6.181h2.851v11.375h-1.82l.004-9.711Z"/>
+      <path fill="url(#xmas_blockscout_logo_svg__f)" d="M52.443 13.462c0-2.55 1.755-4.325 4.28-4.325 2.027 0 3.624 1.051 3.882 3.2h-1.77c-.171-1.085-.944-1.568-1.734-1.568h-.86c-1.099 0-1.992 1.206-1.992 2.708 0 1.501.893 2.722 1.993 2.722h.859a1.75 1.75 0 0 0 1.187-.459 1.76 1.76 0 0 0 .565-1.143h1.77c-.246 2.12-1.856 3.222-3.927 3.222-2.518-.015-4.253-1.807-4.253-4.357Z"/>
+      <path fill="url(#xmas_blockscout_logo_svg__g)" d="M62.252 6.181h1.804v6.274h1.308l2.44-3.084h2.06l-3.006 3.808 3.144 4.377h-2.165l-2.628-3.619h-1.153v3.619h-1.804V6.18Z"/>
+      <path fill="url(#xmas_blockscout_logo_svg__h)" d="M70.827 15.099h1.735c.085.724.532 1.189 1.472 1.189h1.136c.808 0 1.186-.414 1.186-.965 0-.551-.31-.879-1.048-.985l-1.91-.246c-1.614-.19-2.336-1.154-2.336-2.412 0-1.654 1.227-2.55 3.419-2.55 2.098 0 3.37.844 3.436 2.722H76.18c-.085-.706-.377-1.206-1.27-1.206h-1.034c-.773 0-1.134.414-1.134.948s.344.896 1.083 1l1.926.245c1.563.19 2.285 1.034 2.285 2.344 0 1.688-1.117 2.619-3.59 2.619-2.393.002-3.554-.911-3.62-2.703Z"/>
+      <path fill="url(#xmas_blockscout_logo_svg__i)" d="M79.17 13.462c0-2.55 1.753-4.325 4.28-4.325 2.028 0 3.625 1.051 3.883 3.2h-1.77c-.171-1.085-.944-1.568-1.735-1.568h-.859c-1.101 0-1.995 1.206-1.995 2.708 0 1.501.894 2.722 1.995 2.722h.86a1.75 1.75 0 0 0 1.187-.459 1.76 1.76 0 0 0 .565-1.143h1.769c-.245 2.12-1.855 3.222-3.926 3.222-2.516-.015-4.254-1.807-4.254-4.357Z"/>
+      <path fill="url(#xmas_blockscout_logo_svg__j)" d="M98.774 14.53V9.381h1.804v4.842c0 1.189.601 1.895 1.391 1.895h.982c.842 0 1.597-.775 1.597-1.895V9.38h1.807v8.184H104.6v-1.12c-.491.845-1.357 1.362-2.68 1.362-1.978-.003-3.146-1.157-3.146-3.277Z"/>
+      <path fill="url(#xmas_blockscout_logo_svg__k)" d="M109.356 15.65v-4.677h-1.58V9.381h1.58V7.087h1.821V9.38h2.13v1.585h-2.13v4.17c0 .534.172.793.756.793h1.443v1.636h-1.963c-1.321-.002-2.057-.691-2.057-1.915Z"/>
+      <path fill="#6DC04D" d="M7.926 8.165 3.339 21.798h9.173L7.926 8.165Z"/>
+      <path fill="#303C42" fill-rule="evenodd" d="m7.926 7.4 4.925 14.642H3L7.926 7.4ZM3.679 21.554h8.493L7.926 8.93 3.679 21.554Z" clip-rule="evenodd"/>
+      <path fill="#303C42" d="m12.101 21.822-.053.053a.204.204 0 0 1-.284 0L5.51 15.622a.204.204 0 0 1 0-.285l.052-.053a.204.204 0 0 1 .285 0l6.253 6.254a.204.204 0 0 1 0 .284Z"/>
+      <path fill="#303C42" d="m5.653 15.398.053.053a.204.204 0 0 0 .285 0l3.269-3.269a.204.204 0 0 0 0-.284l-.053-.053a.204.204 0 0 0-.285 0l-3.269 3.269a.204.204 0 0 0 0 .284Z"/>
+      <path fill="#85D46B" d="M12.805 12.366 9.62 21.83h6.363l-3.18-9.465Z"/>
+      <path fill="#303C42" fill-rule="evenodd" d="m12.805 11.6 3.518 10.475H9.282L12.805 11.6ZM9.96 21.587h5.684l-2.84-8.456-2.844 8.456Z" clip-rule="evenodd"/>
+      <path fill="#303C42" d="m9.829 21.73.11.11c.064.064.17.064.235 0l4.302-4.302a.167.167 0 0 0 0-.236l-.11-.11a.167.167 0 0 0-.236 0L9.83 21.494a.167.167 0 0 0 0 .235Z"/>
+      <path fill="#FFCF01" stroke="#303C42" stroke-linejoin="round" stroke-width=".4" d="M12.982 10.618a.2.2 0 0 0-.365 0l-.402.9-.96.22a.2.2 0 0 0-.087.346l.698.607-.15.979a.2.2 0 0 0 .299.203l.785-.458.785.458a.2.2 0 0 0 .298-.203l-.15-.979.698-.607a.2.2 0 0 0-.086-.346l-.96-.22-.403-.9ZM8.082 7.118a.2.2 0 0 0-.365 0l-.402.9-.96.22a.2.2 0 0 0-.087.346l.698.607-.15.979a.2.2 0 0 0 .299.203l.785-.458.785.458a.2.2 0 0 0 .298-.203l-.15-.979.698-.607a.2.2 0 0 0-.086-.346l-.96-.22-.403-.9Z"/>
+      <path fill="#FFCF01" d="M8.216 14.117a.708.708 0 1 0 0-1.417.708.708 0 0 0 0 1.417ZM7.216 18.117a.708.708 0 1 0 0-1.417.708.708 0 0 0 0 1.417ZM13.216 19.117a.708.708 0 1 0 0-1.417.708.708 0 0 0 0 1.417Z"/>
+      <path fill="#2B79BA" d="M0 18.002S2.5 20.057 4 19c1.774-1.25 2.093-.043 4-.998 2-1.002 2.65 1.367 4.5 1.585 1.953.23 3.5-1.174 5-.587 1.958.767 2-.998 2-.998v2.17a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-2.17Z" opacity=".3" style="mix-blend-mode:multiply"/>
+      <path fill="url(#xmas_blockscout_logo_svg__l)" d="M0 19.002S2.5 21.057 4 20c1.774-1.25 2.093-.043 4-.998 2-1.002 2.65 1.367 4.5 1.585 1.953.23 3.5-1.174 5-.587 1.958.767 2-.998 2-.998v2.17a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-2.17Z"/>
+      <circle cx="2.5" cy="15.5" r=".5" fill="url(#xmas_blockscout_logo_svg__m)"/>
+      <circle cx="4.5" cy="12.5" r=".5" fill="url(#xmas_blockscout_logo_svg__n)"/>
+      <circle cx="12.5" cy="8.5" r=".5" fill="url(#xmas_blockscout_logo_svg__o)"/>
+      <circle cx="2.25" cy="12.25" r=".25" fill="url(#xmas_blockscout_logo_svg__p)"/>
+      <circle cx="1.25" cy="13.25" r=".25" fill="url(#xmas_blockscout_logo_svg__q)"/>
+      <circle cx="6.25" cy="4.25" r=".25" fill="url(#xmas_blockscout_logo_svg__r)"/>
+      <circle cx="14.25" cy="4.25" r=".25" fill="url(#xmas_blockscout_logo_svg__s)"/>
+      <circle cx="16.25" cy="11.25" r=".25" fill="url(#xmas_blockscout_logo_svg__t)"/>
+      <circle cx="18.25" cy="14.25" r=".25" fill="url(#xmas_blockscout_logo_svg__u)"/>
+      <circle cx="17.25" cy="15.25" r=".25" fill="url(#xmas_blockscout_logo_svg__v)"/>
+      <circle cx="18.25" cy="17.25" r=".25" fill="url(#xmas_blockscout_logo_svg__w)"/>
+      <circle cx="17.5" cy="9.5" r=".5" fill="url(#xmas_blockscout_logo_svg__x)"/>
+      <circle cx="13.5" cy="3.5" r=".5" fill="url(#xmas_blockscout_logo_svg__y)"/>
+      <circle cx="1.5" cy="8.5" r=".5" fill="url(#xmas_blockscout_logo_svg__z)"/>
+      <path fill="#000" fill-rule="evenodd" d="m5.1 2-.465 3L4 2h1.1Zm1.1 0-.465 2L5.1 2h1.1Z" clip-rule="evenodd" opacity=".3"/>
+      <path fill="url(#xmas_blockscout_logo_svg__A)" fill-rule="evenodd" d="m5 2-.423 3L4 2h1Zm0 0 .577 2L6 2H5Z" clip-rule="evenodd"/>
+      <path fill="#000" fill-opacity=".08" fill-rule="evenodd" d="m18 6-.423 2.8L17 6h1Zm0 0 .577 1.4L19 6h-1Z" clip-rule="evenodd"/>
+      <path fill="url(#xmas_blockscout_logo_svg__B)" fill-rule="evenodd" d="m18 6-.423 2L17 6h1Zm0 0 .577 1L19 6h-1Z" clip-rule="evenodd"/>
+    </g>
+    <path fill="url(#xmas_blockscout_logo_svg__C)" fill-rule="evenodd" d="m49.831 14.924.755-.201a.325.325 0 0 1 .366.472.323.323 0 0 1-.197.15l-.573.152.154.569a.32.32 0 0 1-.23.394.325.325 0 0 1-.396-.228l-.203-.75-.609-.35.153.569a.32.32 0 0 1-.229.394.326.326 0 0 1-.396-.227l-.321-1.19-1.081-.62v1.24l.876.87a.32.32 0 0 1-.23.545.325.325 0 0 1-.228-.09l-.419-.416v.699l.553.549a.32.32 0 0 1-.23.545.325.325 0 0 1-.228-.09l-.418-.416-.42.416a.325.325 0 0 1-.548-.229.32.32 0 0 1 .09-.226l.554-.55v-.698l-.42.416a.325.325 0 0 1-.548-.229.32.32 0 0 1 .09-.226l.878-.87v-1.24l-1.081.619-.321 1.19a.32.32 0 0 1-.27.235.327.327 0 0 1-.324-.158.323.323 0 0 1-.032-.244l.154-.568-.61.35-.202.75a.32.32 0 0 1-.27.235.327.327 0 0 1-.324-.158.32.32 0 0 1-.032-.244l.153-.569-.572-.152a.324.324 0 0 1-.23-.394.322.322 0 0 1 .398-.227l.755.201.608-.35-.572-.151a.324.324 0 0 1-.229-.394.32.32 0 0 1 .271-.236.327.327 0 0 1 .126.008l1.199.319 1.08-.62-1.08-.62-1.198.32a.325.325 0 0 1-.405-.353.319.319 0 0 1 .237-.269l.572-.152-.61-.35-.754.201a.326.326 0 0 1-.397-.227.322.322 0 0 1 .23-.395l.571-.152-.153-.568a.321.321 0 0 1 .355-.402.326.326 0 0 1 .27.235l.203.75.609.35-.153-.569a.32.32 0 0 1 .229-.394.326.326 0 0 1 .397.228l.32 1.19 1.082.62v-1.24l-.877-.87a.32.32 0 0 1 .23-.546c.085 0 .167.031.228.09l.419.416v-.699l-.553-.549a.32.32 0 0 1 .23-.545c.085 0 .167.032.228.09l.419.416.418-.416a.325.325 0 0 1 .55.229.32.32 0 0 1-.092.226l-.553.55v.698l.42-.416a.324.324 0 0 1 .548.229.32.32 0 0 1-.09.226l-.878.87v1.24l1.081-.619.321-1.19a.323.323 0 0 1 .397-.227.324.324 0 0 1 .23.394l-.154.568.61-.35.202-.749a.32.32 0 0 1 .27-.236.327.327 0 0 1 .323.159.322.322 0 0 1 .032.244l-.153.568.572.152a.325.325 0 0 1 .238.269.32.32 0 0 1-.28.36.327.327 0 0 1-.126-.008l-.754-.201-.61.35.573.151a.324.324 0 0 1 .229.394.322.322 0 0 1-.397.228l-1.198-.319-1.082.62 1.08.62 1.2-.32a.325.325 0 0 1 .396.228.319.319 0 0 1-.116.338.325.325 0 0 1-.113.056l-.572.152.61.35Zm-4.75-4.963a.323.323 0 0 0 .323-.322.323.323 0 0 0-.324-.321.323.323 0 0 0-.323.321c0 .178.145.322.323.322Zm3.239 0a.323.323 0 0 0 .324-.322.323.323 0 0 0-.324-.321.323.323 0 0 0-.324.321c0 .178.145.322.324.322Zm-5.634 2.723a.32.32 0 0 1 .119.44.325.325 0 0 1-.443.117.32.32 0 0 1-.118-.44.325.325 0 0 1 .442-.117Zm1.739-2.347a.32.32 0 0 0-.119-.44.325.325 0 0 0-.442.119.32.32 0 0 0 .118.44.325.325 0 0 0 .443-.119Zm0 6.325a.32.32 0 0 1-.12.44.325.325 0 0 1-.442-.118.32.32 0 0 1 .119-.44.325.325 0 0 1 .442.118Zm-1.739-2.346a.32.32 0 0 0 .119-.44.325.325 0 0 0-.443-.117.32.32 0 0 0-.118.439c.09.154.287.207.442.118Zm5.958 3.044a.323.323 0 0 1-.324.322.323.323 0 0 1-.324-.322c0-.177.145-.321.324-.321.178 0 .324.144.324.321Zm-3.564.322a.323.323 0 0 0 .324-.322.323.323 0 0 0-.324-.321.323.323 0 0 0-.323.321c0 .178.145.322.323.322Zm6.077-3.484a.32.32 0 0 0-.119-.44.325.325 0 0 0-.442.118.32.32 0 0 0 .118.44.325.325 0 0 0 .443-.118Zm-1.738 2.347a.32.32 0 0 1 .118.44.325.325 0 0 1-.442.117.32.32 0 0 1-.119-.44.325.325 0 0 1 .443-.117Zm-.001-6.09a.32.32 0 0 0 .119-.439.325.325 0 0 0-.443-.118.32.32 0 0 0-.118.44c.089.154.287.206.442.118Zm1.738 2.347a.32.32 0 0 1-.118.44.325.325 0 0 1-.443-.118.32.32 0 0 1 .119-.44.325.325 0 0 1 .442.118Z" clip-rule="evenodd"/>
+    <path fill="url(#xmas_blockscout_logo_svg__D)" fill-rule="evenodd" d="m96.231 14.924.755-.201a.325.325 0 0 1 .365.472.323.323 0 0 1-.197.15l-.572.152.154.569a.32.32 0 0 1-.23.394.325.325 0 0 1-.396-.228l-.203-.75-.609-.35.153.569a.32.32 0 0 1-.229.394.326.326 0 0 1-.396-.227l-.321-1.19-1.082-.62v1.24l.877.87a.32.32 0 0 1-.23.545.325.325 0 0 1-.228-.09l-.419-.416v.699l.553.549a.32.32 0 0 1-.23.545.325.325 0 0 1-.228-.09l-.418-.416-.42.416a.325.325 0 0 1-.548-.229.32.32 0 0 1 .09-.226l.554-.55v-.698l-.42.416a.325.325 0 0 1-.548-.229.32.32 0 0 1 .09-.226l.878-.87v-1.24l-1.081.619-.321 1.19a.32.32 0 0 1-.271.235.327.327 0 0 1-.323-.158.323.323 0 0 1-.032-.244l.153-.568-.609.35-.202.75a.32.32 0 0 1-.27.235.327.327 0 0 1-.324-.158.319.319 0 0 1-.032-.244l.153-.569-.572-.152a.324.324 0 0 1-.23-.394.322.322 0 0 1 .398-.227l.755.201.608-.35-.572-.151a.324.324 0 0 1-.229-.394.32.32 0 0 1 .27-.236.327.327 0 0 1 .127.008l1.198.319 1.082-.62-1.08-.62-1.2.32a.325.325 0 0 1-.404-.353.319.319 0 0 1 .237-.269l.572-.152-.61-.35-.754.201a.326.326 0 0 1-.397-.227.322.322 0 0 1 .23-.395l.571-.152-.153-.568a.319.319 0 0 1 .116-.339.324.324 0 0 1 .51.172l.202.75.609.35-.153-.569a.32.32 0 0 1 .229-.394.326.326 0 0 1 .396.228l.321 1.19 1.082.62v-1.24l-.877-.87a.32.32 0 0 1 .23-.546c.085 0 .167.031.228.09l.419.416v-.699l-.553-.549a.32.32 0 0 1 .23-.545c.085 0 .167.032.228.09l.419.416.418-.416a.325.325 0 0 1 .55.229.32.32 0 0 1-.092.226l-.553.55v.698l.42-.416a.324.324 0 0 1 .548.229.32.32 0 0 1-.09.226l-.878.87v1.24l1.081-.619.321-1.19a.323.323 0 0 1 .397-.227.324.324 0 0 1 .229.394l-.153.568.61-.35.201-.749a.32.32 0 0 1 .271-.236.327.327 0 0 1 .323.159.322.322 0 0 1 .032.244l-.153.568.572.152a.325.325 0 0 1 .237.269.32.32 0 0 1-.279.36.327.327 0 0 1-.126-.008l-.754-.201-.61.35.573.151a.324.324 0 0 1 .229.394.322.322 0 0 1-.397.228l-1.198-.319-1.082.62 1.08.62 1.2-.32a.325.325 0 0 1 .396.228.319.319 0 0 1-.116.338.325.325 0 0 1-.113.056l-.572.152.61.35Zm-4.75-4.963a.323.323 0 0 0 .323-.322.323.323 0 0 0-.324-.321.323.323 0 0 0-.324.321c0 .178.145.322.324.322Zm3.239 0a.323.323 0 0 0 .323-.322.323.323 0 0 0-.323-.321.323.323 0 0 0-.324.321c0 .178.145.322.324.322Zm-5.634 2.723a.32.32 0 0 1 .119.44.325.325 0 0 1-.443.117.32.32 0 0 1-.118-.44.325.325 0 0 1 .442-.117Zm1.739-2.347a.32.32 0 0 0-.119-.44.325.325 0 0 0-.442.119.32.32 0 0 0 .118.44.325.325 0 0 0 .443-.119Zm0 6.325a.32.32 0 0 1-.12.44.325.325 0 0 1-.442-.118.32.32 0 0 1 .119-.44.325.325 0 0 1 .442.118Zm-1.739-2.346a.32.32 0 0 0 .119-.44.325.325 0 0 0-.443-.117.32.32 0 0 0-.118.439c.089.154.287.207.442.118Zm5.957 3.044a.323.323 0 0 1-.323.322.323.323 0 0 1-.324-.322c0-.177.145-.321.324-.321.178 0 .323.144.323.321Zm-3.563.322a.323.323 0 0 0 .324-.322.323.323 0 0 0-.324-.321.323.323 0 0 0-.324.321c0 .178.145.322.324.322Zm6.077-3.484a.32.32 0 0 0-.119-.44.325.325 0 0 0-.442.118.32.32 0 0 0 .118.44.325.325 0 0 0 .443-.118Zm-1.739 2.347a.32.32 0 0 1 .119.44.325.325 0 0 1-.442.117.32.32 0 0 1-.119-.44.325.325 0 0 1 .442-.117Zm0-6.09a.32.32 0 0 0 .118-.439.325.325 0 0 0-.442-.118.32.32 0 0 0-.118.44c.089.154.287.206.442.118Zm1.738 2.347a.32.32 0 0 1-.118.44.325.325 0 0 1-.443-.118.32.32 0 0 1 .119-.44.325.325 0 0 1 .442.118Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <linearGradient id="xmas_blockscout_logo_svg__c" x1="9.745" x2="9.745" y1="2" y2="22" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#36B6FE"/>
+      <stop offset="1" stop-color="#3184D0"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__d" x1="70.688" x2="70.688" y1="6.181" y2="17.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35B2FA"/>
+      <stop offset="1" stop-color="#3189D4"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__e" x1="70.688" x2="70.688" y1="6.181" y2="17.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35B2FA"/>
+      <stop offset="1" stop-color="#3189D4"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__f" x1="70.688" x2="70.688" y1="6.181" y2="17.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35B2FA"/>
+      <stop offset="1" stop-color="#3189D4"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__g" x1="70.688" x2="70.688" y1="6.181" y2="17.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35B2FA"/>
+      <stop offset="1" stop-color="#3189D4"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__h" x1="70.688" x2="70.688" y1="6.181" y2="17.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35B2FA"/>
+      <stop offset="1" stop-color="#3189D4"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__i" x1="70.688" x2="70.688" y1="6.181" y2="17.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35B2FA"/>
+      <stop offset="1" stop-color="#3189D4"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__j" x1="70.688" x2="70.688" y1="6.181" y2="17.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35B2FA"/>
+      <stop offset="1" stop-color="#3189D4"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__k" x1="70.688" x2="70.688" y1="6.181" y2="17.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35B2FA"/>
+      <stop offset="1" stop-color="#3189D4"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__l" x1="9.75" x2="9.75" y1="18.973" y2="22.173" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#C2D1D8"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__m" x1="2.5" x2="2.5" y1="15" y2="16" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__n" x1="4.5" x2="4.5" y1="12" y2="13" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__o" x1="14" x2="12" y1=".5" y2="14" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#D7F3FF"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__p" x1="2.25" x2="2.25" y1="12" y2="12.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__q" x1="1.25" x2="1.25" y1="13" y2="13.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__r" x1="6.25" x2="6.25" y1="4" y2="4.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__s" x1="14.25" x2="14.25" y1="4" y2="4.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__t" x1="16.25" x2="16.25" y1="11" y2="11.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__u" x1="18.25" x2="18.25" y1="14" y2="14.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__v" x1="17.25" x2="17.25" y1="15" y2="15.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__w" x1="18.25" x2="18.25" y1="17" y2="17.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__x" x1="17.5" x2="17.5" y1="9" y2="10" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__y" x1="13.5" x2="13.5" y1="3" y2="4" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__z" x1="1.5" x2="1.5" y1="8" y2="9" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__A" x1="4.577" x2="4.577" y1="5" y2=".5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#FBFEFF"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__B" x1="18.577" x2="18.577" y1="7" y2="5.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#FBFEFF"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__C" x1="46.7" x2="46.7" y1="9" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34A8F1"/>
+      <stop offset="1" stop-color="#3186D2"/>
+    </linearGradient>
+    <linearGradient id="xmas_blockscout_logo_svg__D" x1="93.1" x2="93.1" y1="9" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34A8F1"/>
+      <stop offset="1" stop-color="#3186D2"/>
+    </linearGradient>
+    <clipPath id="xmas_blockscout_logo_svg__a">
+      <path fill="#fff" d="M0 0h113v24H0z"/>
+    </clipPath>
+    <clipPath id="xmas_blockscout_logo_svg__b">
+      <path fill="#fff" d="M0 0h113v24H0z"/>
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g fill="#A91F2F" clip-path="url(#garnet_svg__a)">
+    <path fill-opacity=".5" d="M7.5 3.75V7.5h3.75V3.75H7.5ZM3.75 3.75V7.5H7.5V3.75H3.75Z"/>
+    <path d="M7.5 7.5v3.75h3.75V7.5H7.5ZM11.25 7.5v3.75H15V7.5h-3.75ZM15 7.5v3.75h3.75V7.5H15ZM18.75 7.5v3.75h3.75V7.5h-3.75ZM7.5 11.25V15h3.75v-3.75H7.5ZM18.75 11.25V15h3.75v-3.75h-3.75ZM7.5 15v3.75h3.75V15H7.5ZM18.75 15v3.75h3.75V15h-3.75ZM7.5 18.75v3.75h3.75v-3.75H7.5ZM18.75 18.75v3.75h3.75v-3.75h-3.75ZM15 18.75v3.75h3.75v-3.75H15ZM11.25 18.75v3.75H15v-3.75h-3.75Z"/>
+    <path fill-opacity=".5" d="M3.75 7.5v3.75H7.5V7.5H3.75ZM15 3.75V7.5h3.75V3.75H15ZM18.75 3.75V7.5h3.75V3.75h-3.75ZM22.5 3.75V7.5h3.75V3.75H22.5ZM11.25 3.75V7.5H15V3.75h-3.75Z"/>
+    <path fill-opacity=".25" d="M7.5 30v-3.75h3.75V30H7.5ZM7.5 3.75V0h3.75v3.75H7.5ZM15 30v-3.75h3.75V30H15ZM15 3.75V0h3.75v3.75H15Z"/>
+    <path fill-opacity=".5" d="M15 26.25V22.5h3.75v3.75H15ZM18.75 26.25V22.5h3.75v3.75h-3.75Z"/>
+    <path fill-opacity=".25" d="M11.25 30v-3.75H15V30h-3.75ZM11.25 3.75V0H15v3.75h-3.75ZM18.75 30v-3.75h3.75V30h-3.75ZM18.75 3.75V0h3.75v3.75h-3.75Z"/>
+    <path fill-opacity=".5" d="M11.25 26.25V22.5H15v3.75h-3.75ZM7.5 26.25V22.5h3.75v3.75H7.5Z"/>
+    <path fill-opacity=".25" d="M0 11.25h3.75V15H0v-3.75ZM0 7.5h3.75v3.75H0V7.5Z"/>
+    <path fill-opacity=".5" d="M3.75 15H7.5v3.75H3.75V15ZM3.75 18.75H7.5v3.75H3.75v-3.75ZM3.75 22.5H7.5v3.75H3.75V22.5Z"/>
+    <path fill-opacity=".25" d="M0 15h3.75v3.75H0V15ZM0 18.75h3.75v3.75H0v-3.75Z"/>
+    <path fill-opacity=".5" d="M3.75 11.25H7.5V15H3.75v-3.75Z"/>
+    <path fill-opacity=".25" d="M30 7.5h-3.75v3.75H30V7.5ZM30 15h-3.75v3.75H30V15Z"/>
+    <path fill-opacity=".5" d="M26.25 7.5H22.5v3.75h3.75V7.5ZM26.25 15H22.5v3.75h3.75V15ZM26.25 18.75H22.5v3.75h3.75v-3.75ZM26.25 22.5H22.5v3.75h3.75V22.5Z"/>
+    <path fill-opacity=".25" d="M30 11.25h-3.75V15H30v-3.75ZM30 18.75h-3.75v3.75H30v-3.75Z"/>
+    <path fill-opacity=".5" d="M26.25 11.25H22.5V15h3.75v-3.75Z"/>
+  </g>
+  <defs>
+    <clipPath id="garnet_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>

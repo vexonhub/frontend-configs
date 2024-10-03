@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 512 512">
+  <g clip-path="url(#swapr_svg__a)">
+    <path fill="#fff" d="M0 0h512v512H0z"/>
+    <g clip-path="url(#swapr_svg__b)">
+      <mask id="swapr_svg__c" width="512" height="512" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+        <path fill="#fff" d="M512 0H0v512h512V0Z"/>
+      </mask>
+      <g mask="url(#swapr_svg__c)">
+        <path fill="#000" fill-rule="evenodd" d="M0 345.012v-89.013C0 114.614 114.614 0 255.998 0 325.735 0 388.96 27.885 435.13 73.113l-54.422 34.006c-33.737-28.29-77.234-45.326-124.71-45.326-107.256 0-194.205 86.949-194.205 194.206h61.792L0 345.012Zm130.353 59.074c33.868 28.766 77.733 46.119 125.649 46.119 107.256 0 194.206-86.948 194.206-194.206h-61.793l123.58-90.482.005 90.482c0 141.384-114.614 256-255.998 256-70.17 0-133.745-28.232-179.989-73.958l54.34-33.955Zm223.852-63.122h-70.62l-27.583-37.26-27.583 37.26h-70.621l63.977-83.496-63.982-86.433h66.206l32.003 41.766 32.002-41.766h66.208l-63.984 86.433 63.977 83.496Z" clip-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="swapr_svg__a">
+      <path fill="#fff" d="M0 0h512v512H0z"/>
+    </clipPath>
+    <clipPath id="swapr_svg__b">
+      <path fill="#fff" d="M0 0h512v512H0z"/>
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 180 180">
+  <g clip-path="url(#etherlink_180x180_svg__a)">
+    <path fill="url(#etherlink_180x180_svg__b)" d="M90 6C43.606 6 6 43.611 6 90s37.611 84 84 84 84-37.611 84-84S136.389 6 90 6Zm0 153.131c-38.18 0-69.131-30.951-69.131-69.131S51.82 20.869 90 20.869 159.131 51.82 159.131 90 128.18 159.131 90 159.131Z"/>
+    <path fill="url(#etherlink_180x180_svg__c)" d="M89.54 43.808c-25.417.251-46.018 21.31-45.731 46.725a45.916 45.916 0 0 0 3.986 18.268c.371.838 1.482 1.026 2.118.367l10.184-10.51a2.88 2.88 0 0 0 .744-2.59 29.996 29.996 0 0 1-.614-6.059c0-16.45 13.333-29.782 29.778-29.782 1.684 0 3.332.139 4.935.407a3.304 3.304 0 0 0 2.93-.945L108 49.241c.591-.614.385-1.635-.403-1.957a46.12 46.12 0 0 0-18.058-3.467v-.009Z"/>
+    <path fill="url(#etherlink_180x180_svg__d)" d="M90.457 136.25c25.416-.25 46.017-21.309 45.731-46.725a45.921 45.921 0 0 0-3.986-18.268c-.372-.837-1.483-1.025-2.119-.367l-10.184 10.511a2.878 2.878 0 0 0-.743 2.589c.403 1.957.613 3.981.613 6.06 0 16.449-13.332 29.782-29.778 29.782-1.684 0-3.332-.139-4.935-.408a3.306 3.306 0 0 0-2.929.945l-10.13 10.449c-.592.613-.386 1.635.403 1.957a46.105 46.105 0 0 0 18.057 3.466v.009Z"/>
+    <path fill="url(#etherlink_180x180_svg__e)" d="m66.203 99.131-19.4 19.4c-3.937 3.937-3.937 10.32 0 14.257 3.937 3.937 10.32 3.937 14.257 0l19.4-19.4c3.937-3.937 3.937-10.32 0-14.257-3.937-3.937-10.32-3.937-14.257 0Z"/>
+    <path fill="url(#etherlink_180x180_svg__f)" d="m118.518 46.938-19.4 19.4c-3.937 3.937-3.937 10.32 0 14.257 3.937 3.937 10.32 3.937 14.257 0l19.4-19.4c3.937-3.937 3.937-10.32 0-14.257-3.937-3.937-10.32-3.937-14.257 0Z"/>
+  </g>
+  <defs>
+    <linearGradient id="etherlink_180x180_svg__b" x1="6" x2="240.52" y1="90" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38FF9C"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <linearGradient id="etherlink_180x180_svg__c" x1="43.804" x2="132.032" y1="76.681" y2="76.681" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38FF9C"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <linearGradient id="etherlink_180x180_svg__d" x1="71.656" x2="159.405" y1="103.378" y2="103.378" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38FF9C"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <linearGradient id="etherlink_180x180_svg__e" x1="43.849" x2="110.392" y1="115.962" y2="115.962" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38FF9C"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <linearGradient id="etherlink_180x180_svg__f" x1="96.163" x2="157.559" y1="63.767" y2="63.767" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38FF9C"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <clipPath id="etherlink_180x180_svg__a">
+      <rect width="180" height="180" fill="#fff" rx="90"/>
+    </clipPath>
+  </defs>
+</svg>

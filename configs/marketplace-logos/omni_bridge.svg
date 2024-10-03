@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 512 512">
+  <path fill="#fff" d="M0 0h512v512H0z"/>
+  <path fill="url(#omni_bridge_svg__a)" d="M0 113.871C0 91.18 28.805 80.382 44.545 97.185l192.507 205.392a26.15 26.15 0 0 0 29.256 6.012 26.164 26.164 0 0 0 8.64-6.012L467.455 97.185C483.195 80.382 512 91.196 512 113.888v258.561c0 27.433-22.937 49.659-51.193 49.659H51.193C22.937 422.092 0 399.866 0 372.432V113.871Z"/>
+  <defs>
+    <linearGradient id="omni_bridge_svg__a" x1="256" x2="256" y1="89" y2="422.108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#678CE1"/>
+      <stop offset="1" stop-color="#76BEE3"/>
+    </linearGradient>
+  </defs>
+</svg>

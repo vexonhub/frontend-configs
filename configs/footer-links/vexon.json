@@ -1,0 +1,62 @@
+[{
+    "title": "Apps Portal",
+    "links": [{
+            "text": "Vexon Hub Portal",
+            "url": "https://vexonhub.org"
+        },
+        {
+            "text": "Vexon Defi",
+            "url": "https://vexondefi.net"
+        },
+        {
+            "text": "Vexon Game",
+            "url": "https://game.vexonhub.org/"
+        }
+    ]
+},
+{
+    "title": "Dev Portal",
+    "links": [{
+            "text": "Documentation",
+            "url": "https://wiki.vexonhub.org/"
+        },
+        {
+            "text": "Tokenomics",
+            "url": "https://wiki.vexonhub.org/vexon-ecosystem/vex-coin"
+        },
+        {
+            "text": "Whitepaper",
+            "url": "https://vexonhub.org/Vexon-WP-Vrc20-ver.01.pdf"
+        },
+        {
+            "text": "Node Service",
+            "url": "https://status.vexonhub.org/"
+        }
+    ]
+},
+{
+    "title": "Blog",
+    "links": [{
+            "text": "Medium",
+            "url": "https://vexonblockchain.medium.com/"
+        },
+        {
+            "text": "Facebook",
+            "url": "https://www.facebook.com/vexonchain"
+        }
+    ]
+},
+ {
+"title": "Community",
+"links": [
+  {
+    "text": "Telegram",
+    "url": "https://t.me/VexonCommunity"
+  },
+  {
+    "text": "Twitter (X)",
+    "url": "https://t.me/VexonCommunity"
+  }
+]
+}
+]

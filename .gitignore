@@ -1,0 +1,11 @@
+# dependecies
+/node_modules
+
+# artifacts
+*.tsbuildinfo
+.eslintcache
+yarn-error.log*
+
+# misc
+.DS_Store
+yarn-debug.log*

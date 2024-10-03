@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#optimism_opcraft_svg__a)">
+    <path fill="#F3CF00" d="M17.057 0h-4.286v4.286H10.63V2.143H8.486v4.286h12.857V2.143H19.2v2.143h-2.143V0Z"/>
+    <path fill="#FF0420" d="M8.486 8.571h12.857v2.143h2.143v2.143h2.143v12.857h-2.143v2.143h-2.143V30H8.486v-2.143H6.343v-2.143H4.2V12.857h2.143v-2.143h2.143V8.571Z"/>
+  </g>
+  <defs>
+    <clipPath id="optimism_opcraft_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>

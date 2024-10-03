@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 512 512">
+  <path fill="#000" d="M0 0h512v512H0z"/>
+  <g filter="url(#plasmafinance_svg__a)">
+    <path fill="url(#plasmafinance_svg__b)" fill-rule="evenodd" d="m414.051 242.802-128.024 28.934a136.206 136.206 0 0 1-60.054 0L97.949 242.802c-13.318-3.009-22.503-15.575-19.314-28.851C97.802 134.168 169.958 75 256 75c86.042 0 158.198 59.168 177.365 138.951 3.189 13.276-5.996 25.842-19.314 28.851ZM82.998 313.314c-2.873-8.534 4.232-16.68 13.21-15.987l159.476 12.318a13.51 13.51 0 0 0 2.081-.001l158.196-12.268c9.141-.709 16.352 7.737 13.462 16.437a165.814 165.814 0 0 1-3.377 9.264c-1.828 4.571-6.22 7.526-11.132 7.847l-158.552 10.363L97.81 330.924c-4.912-.321-9.301-3.276-11.167-7.832a163.526 163.526 0 0 1-3.645-9.778Zm110.457 101.253c-6.979 0-8.979 8.575-2.462 11.072 20.222 7.75 42.064 12.146 65.005 12.146 23.223 0 45.508-4.317 65.909-12.275 6.447-2.515 4.425-10.943-2.495-10.943H193.455Zm-58.465-51.312 121.007 4.152 121.008-4.152c11.116-.382 17.482 11.842 9.678 19.769a185.016 185.016 0 0 1-5.366 5.233c-2.41 2.259-5.612 3.457-8.915 3.457H139.593c-3.303 0-6.505-1.198-8.915-3.457a186.335 186.335 0 0 1-5.367-5.233c-7.803-7.927-1.437-20.151 9.679-19.769Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <radialGradient id="plasmafinance_svg__b" cx="0" cy="0" r="1" gradientTransform="matrix(134.18889 372.89755 -365.9243 131.67954 188.567 86.463)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF0B00"/>
+      <stop offset="1" stop-color="#7901A4"/>
+    </radialGradient>
+    <filter id="plasmafinance_svg__a" width="388.367" height="395.152" x="57.77" y="73.651" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dx="-4.046" dy="14.835"/>
+      <feGaussianBlur stdDeviation="8.092"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_2278_7551"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_2278_7551" result="shape"/>
+    </filter>
+  </defs>
+</svg>

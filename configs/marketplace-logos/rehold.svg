@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 80 80">
+  <path fill="url(#rehold_svg__a)" d="M0 0h80v80H0z"/>
+  <path fill="#fff" d="M48.25 22H25.1c-1.254 0-1.954 1.448-1.175 2.431l25.674 32.431A3 3 0 0 0 51.951 58h7.603c1.226 0 1.934-1.39 1.213-2.382l-10.43-14.342C54.72 40.32 58 36.418 58 31.75c0-5.385-4.365-9.75-9.75-9.75ZM24.578 38.167c-.937-.97-2.578-.306-2.578 1.043V56.5a1.5 1.5 0 0 0 1.5 1.5h16.714c1.324 0 1.998-1.59 1.078-2.542l-16.714-17.29Z"/>
+  <defs>
+    <linearGradient id="rehold_svg__a" x1="80" x2="0" y1="11" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4600BF"/>
+      <stop offset=".281" stop-color="#7E00FC"/>
+      <stop offset=".598" stop-color="#DE49FF"/>
+      <stop offset=".848" stop-color="#FFFA5B"/>
+    </linearGradient>
+  </defs>
+</svg>

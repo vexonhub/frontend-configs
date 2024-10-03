@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <path fill="#FCFF52" d="M0 0h30v30H0z"/>
+  <g clip-path="url(#celo-icon-light_svg__a)">
+    <path fill="#000" d="M22.018 8h-14v14h14v-4.887h-2.325a5.126 5.126 0 0 1-4.664 3.023c-2.844 0-5.146-2.325-5.146-5.147-.004-2.822 2.302-5.125 5.146-5.125 2.102 0 3.904 1.28 4.705 3.104h2.284V8Z"/>
+  </g>
+  <defs>
+    <clipPath id="celo-icon-light_svg__a">
+      <path fill="#fff" d="M8 8h14.037v14H8z"/>
+    </clipPath>
+  </defs>
+</svg>
