@@ -2,13 +2,13 @@
     "title": "VexonHub Mainnet",
     "url": "https://mainnet.vexonhub.org",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/vexon.svg"
+    "icon": "https://raw.githubusercontent.com/vexonhub/frontend-configs/main/configs/network-icons/vexon.svg"
 },
 {
     "title": "VexonHub Testnet",
     "url": "https://testnet.vexonhub.org/",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/vexon.svg",
+    "icon": "https://raw.githubusercontent.com/vexonhub/frontend-configs/main/configs/network-icons/vexon.svg",
     "isActive": true
 }
 ]
