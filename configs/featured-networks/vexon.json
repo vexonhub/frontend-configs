@@ -7,7 +7,7 @@
 {
     "title": "VexonHub Testnet",
     "url": "https://testnet.vexonhub.org/",
-    "group": "Mainnets",
+    "group": "Testnet",
     "icon": "https://raw.githubusercontent.com/vexonhub/frontend-configs/main/configs/network-icons/vexon.svg",
     "isActive": true
 }
